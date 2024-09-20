@@ -23,15 +23,14 @@ WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.click(findTestObject('Object Repository/Login/Input_Username'))
 
-WebUI.setText(findTestObject('Object Repository/Login/Input_Username'), 'testersimpul85390')
+WebUI.setText(findTestObject('Object Repository/Login/Input_Username'), '')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Login/Input_Password'), 'onWON+SRnSSBDsTuM2JQuQ==')
 
 WebUI.click(findTestObject('Object Repository/Login/button_Login'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Login/PopUp_Signed in successfully'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Login/PopUp_Username is required'))
 
 WS.delay(2)
 
 WebUI.closeBrowser()
-

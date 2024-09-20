@@ -25,13 +25,12 @@ WebUI.click(findTestObject('Object Repository/Login/Input_Username'))
 
 WebUI.setText(findTestObject('Object Repository/Login/Input_Username'), 'testersimpul85390')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/Input_Password'), 'onWON+SRnSSBDsTuM2JQuQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Login/Input_Password'), '')
 
 WebUI.click(findTestObject('Object Repository/Login/button_Login'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Login/PopUp_Signed in successfully'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Login/PopUp_Password is required'))
 
 WS.delay(2)
 
 WebUI.closeBrowser()
-

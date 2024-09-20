@@ -17,21 +17,34 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('Login_Positive/Call_Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl(GlobalVariable.URL)
+WebUI.click(findTestObject('Object Repository/Add Data/Plus_Button'))
 
-WebUI.click(findTestObject('Object Repository/Login/Input_Username'))
+WebUI.click(findTestObject('Object Repository/Add Data/h6_Task'))
 
-WebUI.setText(findTestObject('Object Repository/Login/Input_Username'), 'testersimpul85390')
+WebUI.click(findTestObject('Object Repository/Add Data/Task_Title'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/Input_Password'), 'onWON+SRnSSBDsTuM2JQuQ==')
+WebUI.setText(findTestObject('Object Repository/Add Data/Task_Title'), 'Test Task')
 
-WebUI.click(findTestObject('Object Repository/Login/button_Login'))
+WebUI.click(findTestObject('Object Repository/Add Data/txt_description'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Login/PopUp_Signed in successfully'))
+WebUI.setText(findTestObject('Object Repository/Add Data/txt_description'), 'Test')
+
+WebUI.click(findTestObject('Object Repository/Add Data/Input_Token_Task'))
+
+WebUI.setText(findTestObject('Object Repository/Add Data/Input_Token_Task'), 'abdi')
+
+WebUI.click(findTestObject('Object Repository/Add Data/p_11 Abdi, Temporary Protected Status (TPS) Request'))
+
+WebUI.click(findTestObject('Object Repository/Add Data/btn_create_task'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Add Data/PopUp_Task'))
 
 WS.delay(2)
 
 WebUI.closeBrowser()
+
+
+
 

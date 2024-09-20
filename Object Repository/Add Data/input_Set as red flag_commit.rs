@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Set as red flag_commit</name>
+   <tag></tag>
+   <elementGuidId>b0da15f2-955e-4164-acb4-b726d6ef1b12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='commit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;commit&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d4bd81b0-b487-4e3b-8dfd-de327044e7dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>16f7aed2-571f-4998-a865-9f75e22192d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>commit</value>
+      <webElementGuid>069e2a57-bc6b-4f33-a442-b63ed3f111b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Post Comment</value>
+      <webElementGuid>a55b8fa9-3f86-4286-98fe-bca57ca9d809</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary send pull-right create-comment</value>
+      <webElementGuid>cf65d3d3-ce88-4b45-9883-d1abc009f3ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-disable-with</name>
+      <type>Main</type>
+      <value>Post Comment</value>
+      <webElementGuid>78580d86-7b4f-4cc9-914d-aecdb9f796d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new_comment&quot;)/input[@class=&quot;btn btn-primary send pull-right create-comment&quot;]</value>
+      <webElementGuid>4da6b17c-193c-47bf-83d0-5016ca64fda3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='commit']</value>
+      <webElementGuid>79d0456c-4805-4edc-ad9c-82cb41a1f286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='new_comment']/input[4]</value>
+      <webElementGuid>dbfd6781-e423-4a9a-9745-6598785092c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input[4]</value>
+      <webElementGuid>c9f9a8fe-3216-4313-905b-efa024cd6b8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit' and @name = 'commit']</value>
+      <webElementGuid>8c99c03b-12dc-41e9-817a-c34843096008</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

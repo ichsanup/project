@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>b_Signed in successfully</name>
+   <name>PopUp_Comment</name>
    <tag></tag>
-   <elementGuidId>9de18568-150b-461f-bc56-ff95d510ec00</elementGuidId>
+   <elementGuidId>84b90b9c-0416-4e0a-954a-1f2dee517e4d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>b</value>
-      <webElementGuid>c1b472fb-d331-493d-97b9-25113509a7b1</webElementGuid>
+      <webElementGuid>430a2f2c-207c-4bcc-9033-b885150a340c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>id</name>
       <type>Main</type>
       <value>flash_notice</value>
-      <webElementGuid>2d659360-aba4-4faa-aa62-f66b49fff725</webElementGuid>
+      <webElementGuid>479a1849-e944-468b-8958-01b3d36c3fcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Signed in successfully.</value>
-      <webElementGuid>e5bcad87-6ce4-4800-8f81-70fc8cee9de6</webElementGuid>
+      <value>Comment is successfully created.</value>
+      <webElementGuid>096102f0-1bbb-4e4b-86bd-68e385727101</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;flash_notice&quot;)</value>
-      <webElementGuid>7c73aff9-ab6d-4277-b86c-61b9a71d1d4b</webElementGuid>
+      <webElementGuid>73f00ff8-662c-4bc4-8b02-5a3ac7a208b3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//b[@id='flash_notice']</value>
-      <webElementGuid>fbbc487f-3bdd-4dbe-9ed6-b4020c024159</webElementGuid>
+      <webElementGuid>ecf39b75-ca68-4a26-91f0-162e6830351e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='notify']/b</value>
-      <webElementGuid>7333e869-f475-4eaa-86fa-920ce1a793a9</webElementGuid>
+      <webElementGuid>9052c1f5-e393-45cf-9aa2-5ace74b52416</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reminders In Next 30 Days'])[1]/following::b[1]</value>
-      <webElementGuid>e6daf54d-f887-4fcf-aa63-a85b4313d220</webElementGuid>
+      <webElementGuid>dbba6442-c4c5-4112-bf42-82165801919b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No upcoming reminders.'])[1]/following::b[1]</value>
-      <webElementGuid>2ad07aba-a8e2-4a3d-bda7-5332971c2a2a</webElementGuid>
+      <webElementGuid>5ce40abb-aa20-41b6-a6a1-033cc1010623</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,15 +86,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Document is being processed, check progress on process log!'])[1]/preceding::b[1]</value>
-      <webElementGuid>f9b6fcd8-5533-42b9-b812-3f150814d1c9</webElementGuid>
+      <webElementGuid>f5e6a200-6db4-4418-9693-75e25cd7b6b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Signed in successfully.']/parent::*</value>
-      <webElementGuid>5753bdbc-eece-42d7-85e1-bec9f270ca29</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'flash_notice', '&quot;', ')')])[1]/preceding::b[3]</value>
+      <webElementGuid>823b42c7-99ff-4338-9741-89e3a89fc0f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Comment is successfully created.']/parent::*</value>
+      <webElementGuid>eb677e88-d8a4-4cad-b152-2bedd3692b20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,14 +110,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/b</value>
-      <webElementGuid>81e2b749-b6d6-476d-bcb1-b00e94d1ea71</webElementGuid>
+      <webElementGuid>15623f7f-2b4e-4841-a1e8-95743ef20801</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//b[@id = 'flash_notice' and (text() = 'Signed in successfully.' or . = 'Signed in successfully.')]</value>
-      <webElementGuid>2eab12ea-8ea0-4bed-a44c-fb881d42649a</webElementGuid>
+      <value>//b[@id = 'flash_notice' and (text() = 'Comment is successfully created.' or . = 'Comment is successfully created.')]</value>
+      <webElementGuid>70206ca6-2ffe-47af-9b66-c2dc170d808e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

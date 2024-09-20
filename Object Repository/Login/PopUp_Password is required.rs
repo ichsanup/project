@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PopUp_Password is required</name>
+   <tag></tag>
+   <elementGuidId>c1381c9e-04ea-4fbd-85a5-77a49563e713</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='password-error']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#password-error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>51e5af5b-81c7-4c81-ab24-1cdf3eda2627</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>password-error</value>
+      <webElementGuid>845a13e9-69ca-45d4-9a71-1e9c502f7d49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>color-red d-block</value>
+      <webElementGuid>6eb318cd-8dab-4b21-83df-fad7ca25160b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password is required</value>
+      <webElementGuid>a9e5d2e3-84d2-484f-abdf-2227cfb6c731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;password-error&quot;)</value>
+      <webElementGuid>8ba825e5-c688-4feb-8b7d-6f9eb19e97d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='password-error']</value>
+      <webElementGuid>a9aa3ee9-cd43-4c55-8d2b-c9b554122fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fast-visa-login']/span[2]</value>
+      <webElementGuid>d2c97db9-ef02-4feb-adee-d5b835a7756f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[1]</value>
+      <webElementGuid>58f1fb0f-5eca-4b85-ba9b-9186df9abc3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username is required'])[1]/following::span[1]</value>
+      <webElementGuid>e8f4f436-d8ad-4874-a304-e97e30479f78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Two Factor Authentication'])[1]/preceding::span[1]</value>
+      <webElementGuid>edff5ebc-b4b2-49b7-bf3a-7a5a35f7152b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter your Google Authentication code here'])[1]/preceding::span[1]</value>
+      <webElementGuid>6c05a522-7b14-4585-972e-ca07469e13d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Password is required']/parent::*</value>
+      <webElementGuid>e80c5db4-e160-437c-98e4-a4a1155ec4af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>c5a771dc-a928-4406-a4af-f70d941d88ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'password-error' and (text() = 'Password is required' or . = 'Password is required')]</value>
+      <webElementGuid>647f9260-1361-440d-ab32-2900e9469dcc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

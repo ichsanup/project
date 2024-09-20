@@ -31,7 +31,5 @@ WebUI.click(findTestObject('Object Repository/Login/button_Login'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Login/PopUp_Signed in successfully'))
 
-WS.delay(2)
 
-WebUI.closeBrowser()
 

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_userpassword</name>
+   <name>Input_Token_Task</name>
    <tag></tag>
-   <elementGuidId>8dd22b43-c7ac-46d0-9a89-708f40d3b041</elementGuidId>
+   <elementGuidId>813c3a27-ff8d-4df8-98e8-9704785c892f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='user_password']</value>
+         <value>//input[@id='case-autocomplete-tokenfield']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#user_password</value>
+         <value>#case-autocomplete-tokenfield</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,39 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9c759247-26e6-4acd-b853-53e0dde871e2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>2</value>
-      <webElementGuid>842cb2af-a21d-4ee4-ae2f-232d3c235117</webElementGuid>
+      <webElementGuid>429ee5b1-6cd3-4884-a70d-7d3de286b438</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>type</name>
       <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>afaaa112-041e-4893-83da-1f95a8739099</webElementGuid>
+      <value>text</value>
+      <webElementGuid>63cc2eb1-9d7b-4b6c-92a9-54bac26c7b44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>input-border-1 form-control border-radius-4px</value>
-      <webElementGuid>831a5443-f35b-48ab-aa0b-4f1df411fbc9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>required</name>
-      <type>Main</type>
-      <value>required</value>
-      <webElementGuid>a074ffbe-68e4-4c15-a4db-609d6432814b</webElementGuid>
+      <value>token-input tt-input</value>
+      <webElementGuid>ff3347c9-c108-4e5b-86b4-acb05d163d47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,70 +46,78 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>543ac992-b508-4b4b-8a55-557d8de2b091</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>c8a71ad6-3e3d-461b-98f2-c75aaa940f55</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>user[password]</value>
-      <webElementGuid>e5741d82-b4e0-4454-a0c8-b4e96259fe99</webElementGuid>
+      <webElementGuid>a55083ef-31cb-4d1b-affa-8e3ab723ded5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>user_password</value>
-      <webElementGuid>cca86266-4be3-4c18-ac05-d045c50257bb</webElementGuid>
+      <value>case-autocomplete-tokenfield</value>
+      <webElementGuid>7dca51a9-cc77-47da-b437-f6bdf57e4904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>b6d6cecf-3caa-46f5-b205-df355a9f50e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>spellcheck</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>64c0d636-2c16-471d-95e5-30624eff06fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>c5a4a9a1-518c-46c8-8a41-4ad081f21ed8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;user_password&quot;)</value>
-      <webElementGuid>069cfeb9-4322-48bc-8aca-0fc741feb5dd</webElementGuid>
+      <value>id(&quot;case-autocomplete-tokenfield&quot;)</value>
+      <webElementGuid>c922ec51-84a7-4920-83f8-0b54b177d012</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='user_password']</value>
-      <webElementGuid>9f01d55e-c5d4-49df-98ef-b891bb34582a</webElementGuid>
+      <value>//input[@id='case-autocomplete-tokenfield']</value>
+      <webElementGuid>6dcecf95-4cc2-4793-8234-3ffe3b2863c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='fast-visa-login']/input[2]</value>
-      <webElementGuid>f14223db-7960-4da9-bd67-ff233cd9021a</webElementGuid>
+      <value>//form[@id='new_task']/div[6]/div/span/input[2]</value>
+      <webElementGuid>47b9637f-622b-4dbe-99e8-bca304560861</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/input[2]</value>
-      <webElementGuid>01d9d677-cdbd-4af6-ae58-8fb45097da1d</webElementGuid>
+      <value>//span/input[2]</value>
+      <webElementGuid>be28dae7-fd73-4bd5-b490-15012fa3605b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@placeholder = 'Password' and @type = 'password' and @name = 'user[password]' and @id = 'user_password']</value>
-      <webElementGuid>29877b8f-d5e7-42d7-a1f7-ac779bb51fda</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'case-autocomplete-tokenfield']</value>
+      <webElementGuid>e43aaec9-9349-40c5-bdcb-85641394dfe7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NameClients</name>
+   <tag></tag>
+   <elementGuidId>35546bc8-93fd-4a8b-ac2f-75ea24465cf9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tab-items.blue--text > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/main/div/div[2]/div[3]/div[2]/div[2]/table/tbody/tr[1]/td[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>add30fb2-0d36-45ec-8512-5fbef4505cec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profile</value>
+      <webElementGuid>a10d84ca-b4aa-4f6e-8747-da80fb79ec61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-content text-base font-lato&quot;]/div[@class=&quot;v-content__wrap&quot;]/div[@class=&quot;position-relative&quot;]/div[@class=&quot;client-tab&quot;]/div[@class=&quot;tab-items blue--text&quot;]/div[1]</value>
+      <webElementGuid>8dd60d09-31ce-45b5-8854-2bcc59f02cc6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>244c5f7e-c5ac-4c6d-9127-b3115aa74e77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Family-Based'])[1]/following::div[4]</value>
+      <webElementGuid>9c51113e-160b-4d15-9a54-d25998a3c1fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This client is still active'])[1]/following::div[8]</value>
+      <webElementGuid>f7d73385-15fe-41d4-8b95-969472aa9c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cases'])[1]/preceding::div[1]</value>
+      <webElementGuid>10d8d9b3-ce9b-4ad5-b426-f765c3fdf65a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Relationships'])[1]/preceding::div[3]</value>
+      <webElementGuid>fc847f28-8338-4c84-bd1c-01895541330f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Profile']/parent::*</value>
+      <webElementGuid>91e52f7d-b0f8-4db2-ba33-a113a9d09a0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/main/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>697a2462-771d-4ef5-bad3-a4ca6e6ce65a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Profile' or . = 'Profile')]</value>
+      <webElementGuid>2803b9d7-d60f-425d-a93c-dd6bdfa62ffe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

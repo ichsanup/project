@@ -6,12 +6,12 @@
    <elementGuidId>b0da15f2-955e-4164-acb4-b726d6ef1b12</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='commit']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input[name=&quot;commit&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;comment_red_flag&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d4bd81b0-b487-4e3b-8dfd-de327044e7dd</webElementGuid>
+      <webElementGuid>2f5f6bac-d812-42a9-a600-419b0393c2b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>16f7aed2-571f-4998-a865-9f75e22192d5</webElementGuid>
+      <webElementGuid>276f7b76-8f9c-48f8-8331-9afadba19bc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>commit</value>
-      <webElementGuid>069e2a57-bc6b-4f33-a442-b63ed3f111b5</webElementGuid>
+      <webElementGuid>d3d97b9c-b12a-44ac-80b5-b1adc9f67480</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Post Comment</value>
-      <webElementGuid>a55b8fa9-3f86-4286-98fe-bca57ca9d809</webElementGuid>
+      <webElementGuid>afb01da0-3374-410c-af72-bbc7512c5bbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary send pull-right create-comment</value>
-      <webElementGuid>cf65d3d3-ce88-4b45-9883-d1abc009f3ef</webElementGuid>
+      <webElementGuid>7f9a2cd4-3abb-4db0-82ab-b40ce064bc46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-disable-with</name>
       <type>Main</type>
       <value>Post Comment</value>
-      <webElementGuid>78580d86-7b4f-4cc9-914d-aecdb9f796d4</webElementGuid>
+      <webElementGuid>c712fb08-67c9-4c36-b007-cd7cdae46e46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;new_comment&quot;)/input[@class=&quot;btn btn-primary send pull-right create-comment&quot;]</value>
-      <webElementGuid>4da6b17c-193c-47bf-83d0-5016ca64fda3</webElementGuid>
+      <webElementGuid>169e6e18-6f7e-4dc2-b8d5-7c2f837b74c5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='commit']</value>
-      <webElementGuid>79d0456c-4805-4edc-ad9c-82cb41a1f286</webElementGuid>
+      <webElementGuid>8b66aee1-3488-403c-9906-f479e4bc6c7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='new_comment']/input[4]</value>
-      <webElementGuid>dbfd6781-e423-4a9a-9745-6598785092c7</webElementGuid>
+      <webElementGuid>245d1726-8f61-408a-9820-171317b65770</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[4]</value>
-      <webElementGuid>c9f9a8fe-3216-4313-905b-efa024cd6b8d</webElementGuid>
+      <webElementGuid>303996b2-41cf-4679-8686-24b544ab1d9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @name = 'commit']</value>
-      <webElementGuid>8c99c03b-12dc-41e9-817a-c34843096008</webElementGuid>
+      <webElementGuid>0a5f00f4-a561-4c4f-b17f-356a1ca8ec77</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

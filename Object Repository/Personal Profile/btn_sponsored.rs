@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_sponsored</name>
+   <tag></tag>
+   <elementGuidId>90eb4b4b-7c2c-4231-8bbd-1690e6606a2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/main/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[1]/div[1]/div/div/div[2]/div/div[4]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

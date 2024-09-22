@@ -21,27 +21,15 @@ WebUI.callTestCase(findTestCase('Login_Positive/Call_Login'), [:], FailureHandli
 
 WebUI.click(findTestObject('Object Repository/Personal Profile/btn_burger_dashboard'))
 
-WebUI.click(findTestObject('Object Repository/Personal Profile/btn_TeamMembers'))
+WebUI.click(findTestObject('Object Repository/Personal Profile/btn_clients'))
 
-WebUI.click(findTestObject('Object Repository/Personal Profile/btn_view'))
+WebUI.click(findTestObject('Object Repository/Delete Profile/div_Maria Garcia'))
 
-WebUI.click(findTestObject('Object Repository/Personal Profile/btn_sponsored'))
+WebUI.click(findTestObject('Object Repository/Delete Profile/btn_Launch Legacy Profile'))
 
-WebUI.click(findTestObject('Object Repository/Personal Profile/btn_SetAutoAssign'))
+WebUI.click(findTestObject('Object Repository/Delete Profile/btn_Delete'))
 
-WebUI.click(findTestObject('Object Rrepository/Personal Profile/div_AllClients'))
-
-WebUI.click(findTestObject('Object Repository/Personal Profile/div_SelectClient'))
-
-WebUI.click(findTestObject('Object Repository/Personal Profile/btn_ToggleReference'))
-
-WebUI.click(findTestObject('Object Repository/Personal Profile/btn_SearchTeamMembers'))
-
-WebUI.click(findTestObject('Object Repository/Personal Profile/btn_Add'))
-
-WebUI.click(findTestObject('Object Repository/Personal Profile/btn_update'))
-
-WebUI.click(findTestObject('Object Repository/Personal Profile/btn_DisableAutoAssign'))
+WS.delay(2)
 
 WebUI.closeBrowser()
 

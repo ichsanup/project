@@ -1,0 +1,48 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login_DDT,Chrome 128.0.0.0,,,2024-09-23 12:24:39,2024-09-23 12:26:45,2m - 6.436s,FAILED
+,,,,,,,
+Test Cases/Login_Positive/Login_Positive_DDT,Chrome 128.0.0.0,,,2024-09-23 12:24:39,2024-09-23 12:24:50,11.337s,FAILED
+"openBrowser("""")",Chrome 128.0.0.0,,,2024-09-23 12:24:39,2024-09-23 12:24:42,2.612s,PASSED
+navigateToUrl(URL),Chrome 128.0.0.0,,,2024-09-23 12:24:42,2024-09-23 12:24:49,7.335s,PASSED
+"setText(findTestObject(""Object Repository/Login/Input_Username""), Username)",Chrome 128.0.0.0,,,2024-09-23 12:24:49,2024-09-23 12:24:50,0.728s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Input_Password""), Password)",Chrome 128.0.0.0,,,2024-09-23 12:24:50,2024-09-23 12:24:50,0.321s,FAILED
+,,,,,,,
+Test Cases/Login_Positive/Login_Positive_DDT,Chrome 128.0.0.0,,,2024-09-23 12:24:50,2024-09-23 12:25:04,13.716s,FAILED
+"openBrowser("""")",Chrome 128.0.0.0,,,2024-09-23 12:24:50,2024-09-23 12:24:52,1.842s,PASSED
+navigateToUrl(URL),Chrome 128.0.0.0,,,2024-09-23 12:24:52,2024-09-23 12:25:03,10.840s,PASSED
+"setText(findTestObject(""Object Repository/Login/Input_Username""), Username)",Chrome 128.0.0.0,,,2024-09-23 12:25:03,2024-09-23 12:25:03,0.666s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Input_Password""), Password)",Chrome 128.0.0.0,,,2024-09-23 12:25:03,2024-09-23 12:25:04,0.359s,FAILED
+,,,,,,,
+Test Cases/Login_Positive/Login_Positive_DDT,Chrome 128.0.0.0,,,2024-09-23 12:25:04,2024-09-23 12:25:43,39.005s,FAILED
+"openBrowser("""")",Chrome 128.0.0.0,,,2024-09-23 12:25:04,2024-09-23 12:25:06,1.850s,PASSED
+navigateToUrl(URL),Chrome 128.0.0.0,,,2024-09-23 12:25:06,2024-09-23 12:25:10,4.031s,PASSED
+"setText(findTestObject(""Object Repository/Login/Input_Username""), Username)",Chrome 128.0.0.0,,,2024-09-23 12:25:10,2024-09-23 12:25:10,0.667s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Input_Password""), Password)",Chrome 128.0.0.0,,,2024-09-23 12:25:10,2024-09-23 12:25:11,0.341s,PASSED
+"click(findTestObject(""Object Repository/Login/button_Login""))",Chrome 128.0.0.0,,,2024-09-23 12:25:11,2024-09-23 12:25:11,0.355s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Login/PopUp_Signed in successfully""))",Chrome 128.0.0.0,,,2024-09-23 12:25:11,2024-09-23 12:25:43,31.756s,FAILED
+,,,,,,,
+Test Cases/Login_Positive/Login_Positive_DDT,Chrome 128.0.0.0,,,2024-09-23 12:25:43,2024-09-23 12:25:50,7.048s,FAILED
+"openBrowser("""")",Chrome 128.0.0.0,,,2024-09-23 12:25:43,2024-09-23 12:25:45,1.873s,PASSED
+navigateToUrl(URL),Chrome 128.0.0.0,,,2024-09-23 12:25:45,2024-09-23 12:25:49,4.257s,PASSED
+"setText(findTestObject(""Object Repository/Login/Input_Username""), Username)",Chrome 128.0.0.0,,,2024-09-23 12:25:49,2024-09-23 12:25:50,0.652s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Input_Password""), Password)",Chrome 128.0.0.0,,,2024-09-23 12:25:50,2024-09-23 12:25:50,0.260s,FAILED
+,,,,,,,
+Test Cases/Login_Positive/Login_Positive_DDT,Chrome 128.0.0.0,,,2024-09-23 12:25:50,2024-09-23 12:26:29,39.203s,FAILED
+"openBrowser("""")",Chrome 128.0.0.0,,,2024-09-23 12:25:50,2024-09-23 12:25:52,1.829s,PASSED
+navigateToUrl(URL),Chrome 128.0.0.0,,,2024-09-23 12:25:52,2024-09-23 12:25:56,4.283s,PASSED
+"setText(findTestObject(""Object Repository/Login/Input_Username""), Username)",Chrome 128.0.0.0,,,2024-09-23 12:25:56,2024-09-23 12:25:57,0.663s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Input_Password""), Password)",Chrome 128.0.0.0,,,2024-09-23 12:25:57,2024-09-23 12:25:57,0.346s,PASSED
+"click(findTestObject(""Object Repository/Login/button_Login""))",Chrome 128.0.0.0,,,2024-09-23 12:25:57,2024-09-23 12:25:57,0.340s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Login/PopUp_Signed in successfully""))",Chrome 128.0.0.0,,,2024-09-23 12:25:57,2024-09-23 12:26:29,31.724s,FAILED
+,,,,,,,
+Test Cases/Login_Positive/Login_Positive_DDT,Chrome 128.0.0.0,,,2024-09-23 12:26:29,2024-09-23 12:26:37,8.208s,FAILED
+"openBrowser("""")",Chrome 128.0.0.0,,,2024-09-23 12:26:29,2024-09-23 12:26:31,1.796s,PASSED
+navigateToUrl(URL),Chrome 128.0.0.0,,,2024-09-23 12:26:31,2024-09-23 12:26:37,5.553s,PASSED
+"setText(findTestObject(""Object Repository/Login/Input_Username""), Username)",Chrome 128.0.0.0,,,2024-09-23 12:26:37,2024-09-23 12:26:37,0.603s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Input_Password""), Password)",Chrome 128.0.0.0,,,2024-09-23 12:26:37,2024-09-23 12:26:37,0.242s,FAILED
+,,,,,,,
+Test Cases/Login_Positive/Login_Positive_DDT,Chrome 128.0.0.0,,,2024-09-23 12:26:37,2024-09-23 12:26:45,7.534s,FAILED
+"openBrowser("""")",Chrome 128.0.0.0,,,2024-09-23 12:26:37,2024-09-23 12:26:39,1.766s,PASSED
+navigateToUrl(URL),Chrome 128.0.0.0,,,2024-09-23 12:26:39,2024-09-23 12:26:44,4.837s,PASSED
+"setText(findTestObject(""Object Repository/Login/Input_Username""), Username)",Chrome 128.0.0.0,,,2024-09-23 12:26:44,2024-09-23 12:26:45,0.657s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Input_Password""), Password)",Chrome 128.0.0.0,,,2024-09-23 12:26:45,2024-09-23 12:26:45,0.268s,FAILED

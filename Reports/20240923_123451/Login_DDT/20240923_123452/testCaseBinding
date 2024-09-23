@@ -1,0 +1,3 @@
+{"testCaseName":"Test Cases/Login_Positive/Login_Positive_DDT","testCaseId":"Test Cases/Login_Positive/Login_Positive_DDT","iterationVariableName":"","bindedValues":{"Username":"\u0027testersimpul85390\u0027","Password":"\u0027Lasagna222!\u0027"}}
+{"testCaseName":"Test Cases/Login_Positive/Login_Positive_DDT","testCaseId":"Test Cases/Login_Positive/Login_Positive_DDT","iterationVariableName":"","bindedValues":{"Username":"\u0027guesttest95785\u0027","Password":"\u0027Friednoodles899@\u0027"}}
+{"testCaseName":"Test Cases/Login_Positive/Login_Positive_DDT","testCaseId":"Test Cases/Login_Positive/Login_Positive_DDT","iterationVariableName":"","bindedValues":{"Username":"\u0027testersimpul85390\u0027","Password":"\u0027**********\u0027"}}

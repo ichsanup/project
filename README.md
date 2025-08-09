@@ -1,2 +1,2 @@
-# project
-project simple tech
+# Katalon
+Automate testing with Katalon 
